@@ -4,7 +4,7 @@
 
 * 使用VPS
   * AWS lightsail
-    * 使用 5 usd的來練習
+    * 使用 5 usd 機器的來練習
     ```shell
     # 安裝
     sudo snap install microk8s --classic
